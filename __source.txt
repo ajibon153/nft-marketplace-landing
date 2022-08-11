@@ -1,0 +1,14 @@
+YT :
+ Build and Deploy Your First Modern React Native App | NFT Marketplace Course - Extremely Easy! 
+
+By :
+JavaScript Mastery
+
+Source :
+https://www.youtube.com/watch?v=_ivIUCSOZ78
+
+Info :
+pembahasan react native 2022, dengan expo app
+yang ini khusus landing page nya dengan react.js dan tailwind.css
+
+
